@@ -1,7 +1,7 @@
 # project_frt
 ### This is the final project submitted for the completion of Microsoft Future Ready Talent Virtual Internship.
--This is a web based application developed for health related problems
--This web based Hospital Information Management System application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+- This is a web based application developed for health related problems
+- This web based Hospital Information Management System application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 ## Azure technologies used For this Project
 - Static Web Apps
 - Health bot
@@ -11,12 +11,12 @@
 **Project Demo Video Link** -
 
 ## The website has following Features and Functionalities:
--Interactive and responsive UI.
--Has many graphical and visual innovative effects.
--Have an aesthetically pleasing visual design and architecture.
--Has collection of many web pages including Home,Medical Record,Patient's Registration, Contact Us, Health Bot related information etc.
--User can know about Health related problems through this website.
--Included the Health Bot to know Health related issues from the AI-powered virtual health assistants
+- Interactive and responsive UI.
+- Has many graphical and visual innovative effects.
+- Have an aesthetically pleasing visual design and architecture.
+- Has collection of many web pages including Home,Medical Record,Patient's Registration, Contact Us, Health Bot related information etc.
+- User can know about Health related problems through this website.
+- Included the Health Bot to know Health related issues from the AI-powered virtual health assistants
 
 ## SCREENSHOTS
 ### HOME PAGE
@@ -32,8 +32,8 @@
 ![image](https://github.com/20A31A05F0/project_ftr/assets/109793032/8ea756b2-2120-4621-bac9-7e3ce6ce23ae)
 
 ## TECHNOLOGIES USED
--Azure
--GitHub
--HTML
--CSS
--JavaScript
+- Azure
+- GitHub
+- HTML
+- CSS
+- JavaScript
