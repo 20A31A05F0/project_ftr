@@ -14,9 +14,10 @@
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home,Medical Record,Patient's Registration, Contact Us, Health Bot related information etc.
-- User can know about Health related problems through this website.
-- Included the Health Bot to know Health related issues from the AI-powered virtual health assistants
+- Has collection of many web pages including the complete information about the services like spa and beauty services that include hair salon and makeup customization .
+- User can know more  about the service that they provide and can book an appointment for the service.
+- User can know the benefits by acquiring the services .
+- Included the chat Bot to provide assistance.
 
 ## SCREENSHOTS
 ### HOME PAGE
